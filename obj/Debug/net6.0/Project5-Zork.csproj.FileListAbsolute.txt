@@ -1,0 +1,29 @@
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.exe
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.deps.json
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.runtimeconfig.json
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.dll
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.pdb
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.csproj.AssemblyReference.cache
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.AssemblyInfoInputs.cache
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.AssemblyInfo.cs
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.csproj.CoreCompileInputs.cache
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.dll
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\refint\Project5-Zork.dll
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.pdb
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.genruntimeconfig.cache
+C:\Users\foist\source\repos\Project5-Zork\Project5-Zork\obj\Debug\net6.0\ref\Project5-Zork.dll
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.exe
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.deps.json
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.runtimeconfig.json
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.dll
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\bin\Debug\net6.0\Project5-Zork.pdb
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.AssemblyInfoInputs.cache
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.AssemblyInfo.cs
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.csproj.CoreCompileInputs.cache
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.dll
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\refint\Project5-Zork.dll
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.pdb
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\Project5-Zork.genruntimeconfig.cache
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project5-Zork\Project5-Zork\obj\Debug\net6.0\ref\Project5-Zork.dll
